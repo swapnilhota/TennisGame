@@ -1,3 +1,5 @@
 # Tennis Game
 
-Built on JavaScript
+Building this on JavaScript.
+
+Not completed yet.
